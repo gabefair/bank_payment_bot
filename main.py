@@ -10,9 +10,6 @@ Usage:
 Options:
   -h --help                      Show this help.
   --local                      Run locally.
-  --auth=<username>:<password>   Vodafone username/password. If not supplied,
-                                 the environment variables VODAFONE_USERNAME
-                                 and VODAFONE_PASSWORD are used.
 """
 
 import contextlib
